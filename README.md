@@ -1,5 +1,6 @@
 # Electronic-birthday-greeting-card
-Nerdy electronic birthday greeting card using arduino nano.
+
+# Nerdy electronic birthday greeting card using arduino nano.
 
 The Electronic Birthday Greeting Card is designed to surprise and delight the recipient with a special birthday message displayed on an OLED screen, accompanied by LED lights and a buzzer playing a birthday tune.
 
@@ -10,3 +11,16 @@ After the tune is completed, an instruction to blow on the microphone will be di
 This will be followed by an outro animation, and a message will be displayed (at least once every 5 iterations). The message will be selected randomly from an array of messages.
 
 All the messages and birthday wishes can be modified in the code accordingly.
+
+## Parts required:
+1) Arduino Nano
+2) 0.96 inch 128*64 resolution OLED display
+3) 10K ohm resistor
+4) 250 ohm resistor
+5) Passive buzzer
+6) Yellow led
+7) Blank PCB
+8) Cake cutout
+9) Battery (Use and throw coin battery can be used like CR2032 two in series or lithium ion and lithium polymer battery with charging circuits can be used)
+
+Note: While using lithium batteries proper charging mechanisms should be used. Also voltage booster circuit is needed to increase the max 4.2V of lithium battery to 5V as input for arduino. Small powerbank modules can be used as they can charge the battery safely and also boosting the voltage to 5V. 
