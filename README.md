@@ -14,7 +14,7 @@ All the messages and birthday wishes can be modified in the code accordingly.
 
 ## Parts required:
 1) Arduino Nano
-2) 0.96 inch 128*64 resolution OLED display
+2) 0.96 inch 128*64 resolution OLED display (I2C version)
 3) 10K ohm resistor
 4) 250 ohm resistor
 5) Passive buzzer
