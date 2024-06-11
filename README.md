@@ -1,6 +1,6 @@
 # Electronic-birthday-greeting-card
 
-# Nerdy electronic birthday greeting card using arduino nano.
+# Nerdy electronic birthday greeting card using Arduino Nano.
 
 The Electronic Birthday Greeting Card is designed to surprise and delight the recipient with a special birthday message displayed on an OLED screen, accompanied by LED lights and a buzzer playing a birthday tune.
 
