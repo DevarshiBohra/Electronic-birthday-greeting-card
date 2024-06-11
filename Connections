@@ -1,0 +1,18 @@
+# Oled connections:
+GND - Arduino GND
+VCC - Arduino 5V
+SCL - A5
+SDA - A4
+
+# Buzzer
+Buzzer positive - D3
+Buzzer negative - Arduino GND
+
+# Led
+Led positive - 250 ohm resistor - D4
+Led negative - Arduino GND
+
+# Electret microphone
+Mic positive - A0
+Mic positive - 10k resistor - Arduino 5V
+Mic negative - Arduino GND
