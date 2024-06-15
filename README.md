@@ -22,7 +22,9 @@ All the messages and birthday wishes can be modified in the code accordingly.
 7) Blank PCB
 8) Cake cutout
 9) Battery (Use and throw coin battery can be used like CR2032 two in series or lithium ion and lithium polymer battery with charging circuits can be used)
-
+10) Charging and voltage booster (step-up) circuit must be included if lithium batteries are used.
+    Example:- TP4056 for charging and MT3608 step up module.
+    
 Note:
 1) While using lithium batteries proper charging mechanisms should be used. Also voltage booster circuit is needed to increase the max 4.2V of lithium battery to 5V as input for arduino. Small powerbank modules can be used as they can charge the battery safely and also boosting the voltage to 5V.
 2) The animations used (cat and cross) for intro and outro can be changed and how to change the animations according to personal choices can be done by watching the below tutorial.
