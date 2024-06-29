@@ -27,7 +27,7 @@ All the messages and birthday wishes can be modified in the code accordingly.
     
 Note:
 1) While using lithium batteries proper charging mechanisms should be used. Also voltage booster circuit is needed to increase the max 4.2V of lithium battery to 5V as input for arduino. Small powerbank modules can be used as they can charge the battery safely and also boosting the voltage to 5V. An extra 100 ohm resistor is connected in parallel to the load so that the powerbank module stays active.
-2) The animations used (cat and cross) for intro and outro can be changed and how to change the animations according to personal choices can be done by watching the below tutorial.
+2) The animations used (cat and cross) for intro and outro can be changed and how to change the animations is shown in the tutorial.
    ### Link for the tutorial:
    https://youtu.be/o3PhC_VJdXo?feature=shared
 
