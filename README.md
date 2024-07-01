@@ -1,4 +1,4 @@
-# Electronic-birthday-greeting-card
+# Arduino-birthday-greeting-card
 
 # Nerdy electronic birthday greeting card using Arduino Nano.
 
